@@ -123,10 +123,10 @@ Creator_Process_Name="C:\Windows\System32\cmd.exe"
 ## 📸 Screenshots
 
 ### Splunk Receiving Logs from SOC-LAB
-*(Add screenshot)*
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/4c401020-5062-4ef4-a5b0-00044ab92338" />
 
 ### Nmap Scan from Kali
-<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/62375f31-a8d3-42f1-8e49-948a846dc0be" />
+<img width="650" height="550" alt="image" src="https://github.com/user-attachments/assets/62375f31-a8d3-42f1-8e49-948a846dc0be" />
 
 
 ### Splunk Detection Results
