@@ -128,12 +128,8 @@ Creator_Process_Name="C:\Windows\System32\cmd.exe"
 ### Nmap Scan from Kali
 <img width="650" height="550" alt="image" src="https://github.com/user-attachments/assets/62375f31-a8d3-42f1-8e49-948a846dc0be" />
 
-
 ### Splunk Detection Results
-*(Add screenshot)*
-
-### CMD Activity Detection
-*(Add screenshot)*
+<img width="750" height="680" alt="image" src="https://github.com/user-attachments/assets/e7c8b32c-95a1-463a-9cb8-a1ddb7b8f025" />
 
 ---
 
